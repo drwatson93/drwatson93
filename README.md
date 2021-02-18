@@ -1,13 +1,13 @@
-### Hi there I'm Mario Martinez a passionate and strong analytical Data Scientist with experience developing models that translate data into actionable business insights. Bringing forth collaborative and problem-solving abilities to synthesize quantitative information, cooperate with team members and clients, and deliver business value effectively. Looking for opportunities to help companies drive business strategy, efficient operations, cost savings, and sales performance leveraging use-case-centered, data-first methods, and technologies.👋
+### Hi there, I'm Mario Martinez a passionate and strong analytical Data Scientist with experience developing models that translate data into actionable business insights. Bringing forth collaborative and problem-solving abilities to synthesize quantitative information, cooperate with team members and clients, and deliver business value effectively. Looking for opportunities to help companies drive business strategy, efficient operations, cost savings, and sales performance leveraging use-case-centered, data-first methods, and technologies. 👋
 
 - 🔭 I’m currently working on ...
 
 - 🤹 Skills
   * Advance Python programming 
-  * Numpy programing large, multi-dimensional arrays and matrices
+  * NumPy programing large, multi-dimensional arrays and matrices
   * Data Analysis w/Pandas
-  * Data Visualisation with Matplotlib 
-  * Data Visualisation with Seaborn
+  * Data Visualization with Matplotlib 
+  * Data Visualization with Seaborn
  
 - 🌱 I’m currently learning Strata.AI's Full Stack AI Program 
   * Module #1: Data Science for AI (COMPLETED) 
@@ -22,7 +22,9 @@
     * Link: https://github.com/drwatson93/Data-Analysis-RMS_Titanic
 
 - 💬 Ask me about ...
+
 - 📫 How to reach me: Email: Mariomrtz93@gmail.com Linkedin: https://www.linkedin.com/in/mario-martinez-6863a293/
+
 - ⚡ Fun fact: ...
 
 <!--
