@@ -1,4 +1,4 @@
-### Hi there, I'm Mario Martinez a passionate and strong analytical Data Scientist with experience developing models that translate data into actionable business insights. Bringing forth collaborative and problem-solving abilities to synthesize quantitative information, cooperate with team members and clients, and deliver business value effectively. Looking for opportunities to help companies drive business strategy, efficient operations, cost savings, and sales performance leveraging use-case-centered, data-first methods, and technologies. 👋
+ Hi there, I'm <b Mario Martinez></b>  a passionate and strong analytical Data Scientist with experience developing models that translate data into actionable business insights. Bringing forth collaborative and problem-solving abilities to synthesize quantitative information, cooperate with team members and clients, and deliver business value effectively. Looking for opportunities to help companies drive business strategy, efficient operations, cost savings, and sales performance leveraging use-case-centered, data-first methods, and technologies. 👋
 
 - 🔭 I’m currently working on 
  * A.I Professional Certification
@@ -24,16 +24,19 @@
   * Developed a jupyter notebook to analysis Titanic passenger data with tools like NumPy, Pandas, Seaborn, and Matplotlib.
     * Link: https://github.com/drwatson93/Data-Analysis-RMS_Titanic
 
-- 💬 Ask me about ...
+- 💬 Ask me about 
+  * Data science
+  * Renewable Energies 
+  * Electric vehicles
+  * Video Games
+  * PC Hardware
 
 - 📫 How to reach me: 
 
 <a href="https://github.com/drwatson93"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 <a href="https://www.linkedin.com/in/mario-martinez-6863a293"/><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
-
-
-- ⚡ Fun fact: i am an advet gamer 
+- ⚡ Fun fact: I love playing first person shooters and real time stategy games. examples, Overwatch, Apex legends, and World of Warcraft.
 
 <!--
 **drwatson93/drwatson93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
