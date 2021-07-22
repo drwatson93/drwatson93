@@ -14,7 +14,9 @@
  
 - 🌱 I’m currently learning Strata.AI's Full Stack AI Program 
   * Module #1: Data Science for AI (COMPLETED) 
-  * Module #2: Practical Machine Learning (WIP)
+  * Module #2: Practical Machine Learning (COMPLETED)
+  * Module #3: Practical Deep Learning (COMPLETED)
+  * Module #4: Practical Topics in AI (WIP)
   
 - Completed Projects:
   * Developed a KNNClassifier from the ground up that provided classification and regression features, and outputted class membership results.
